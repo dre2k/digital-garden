@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Andre Kim
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -223,8 +223,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/dre2k/digital-garden
+        # Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -248,7 +248,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
@@ -262,7 +262,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: cyberglow
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:

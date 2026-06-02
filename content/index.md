@@ -1,8 +1,16 @@
 ---
-title: Welcome to my digital garden 🌲🐿
+title: Andre's Digital Garden
 ---
+
+🌲 🐿 🚵 🎸 🎶
+
 ![[DSC_0252.jpg]]
 
-I like the concept of digital gardens -- a public learning space that is unfinished/in progress by design, free from the rigidity of 'finished posts in a blog'
+I like the idea of digital gardens --- a public space perpetually 'in progress'. so yeah. 
 
-Using this as a sort of public journal to document self-improvement and skill development, primarily focused on AI/ML, math, programming. I also enjoy practicing musical instruments, and being outdoors as much as possible
+---
+
+## Links
+
+[Storygraph](https://app.thestorygraph.com/profile/dre94)
+
