@@ -13,8 +13,21 @@ We've been to ~ 14 National Parks/Monuments so far, and Death Valley is among my
 
 Photos from December 2024
 
+**Father Crowley Vista Point**
+
+We drove to Death Valley via the 395 to 190, and had the opportunity to stop at this vista point (I watched a YouTuber take this route and wanted to replicate it. I think it was way worth it)
+
+![https://res.cloudinary.com/domgdl883/image/upload/v1780463085/DSC_0712_vcjdjs.jpg](https://res.cloudinary.com/domgdl883/image/upload/v1780463085/DSC_0712_vcjdjs.jpg)
+
+
+**Zabrieski Point**
+![https://res.cloudinary.com/domgdl883/image/upload/v1780463087/DSC_0844_q7im2r.jpg](https://res.cloudinary.com/domgdl883/image/upload/v1780463087/DSC_0844_q7im2r.jpg)
+
+
+
 **Badwater Basin**
-![[death_valley.jpg]]
+![](https://res.cloudinary.com/domgdl883/image/upload/v1780462951/death_valley_ycqnom.jpg)
+
 
 **Devil's Golf Course**
 ![Devils' Golf Course](https://res.cloudinary.com/domgdl883/image/upload/f_auto,q_auto/DSC_0854_tresqa)
