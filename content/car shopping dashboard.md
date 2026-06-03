@@ -1,6 +1,6 @@
 ---
-title: Car Shopping Dashboard
-permalink: car_shopping_dashboard
+title: Car Shopping App
+permalink: car_shopping_app
 draft: false
 tags:
 - apps

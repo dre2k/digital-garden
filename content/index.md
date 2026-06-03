@@ -8,9 +8,11 @@ title: Andre's Digital Garden
 
 I like the idea of digital gardens --- a public space perpetually 'in progress'. so yeah. 
 
+
 ---
 
 ## Links
 
-[Storygraph](https://app.thestorygraph.com/profile/dre94)
+[[tags]]
+[Storygraph profile](https://app.thestorygraph.com/profile/dre94). Trying to spend more time reading, less time doomscrolling into oblivion
 
