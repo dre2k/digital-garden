@@ -16,8 +16,8 @@ Photos from December 2024
 **Badwater Basin**
 ![[death_valley.jpg]]
 
-
-
+**Devil's Golf Course**
+![Devils' Golf Course](https://res.cloudinary.com/domgdl883/image/upload/f_auto,q_auto/DSC_0854_tresqa)
 
 
 
