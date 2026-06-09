@@ -1,12 +1,12 @@
 ---
-title: Andre's Digital Garden
+title: Wassup
 ---
 
 🌲 🐿 🚵 🎸 🎶
 
 ![[DSC_0252.jpg]]
 
-I like the idea of digital gardens --- a public space perpetually 'in progress'. so yeah. 
+I like the idea of digital gardens --- a public space perpetually 'in progress'. so yeah
 
 
 ---
